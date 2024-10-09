@@ -1,3 +1,5 @@
+Forked from https://github.com/mrjgreen/config for compatibility with old projects.
+
 ##A Simple Config Loader for PHP
 
 Merge a set of php config arrays from files in nested folders (using `array_replace_recursive`) based on a single environment setting, which matches the folder tree you want to load.
