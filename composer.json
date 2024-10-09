@@ -1,7 +1,7 @@
 {
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "name": "mrjgreen/config",
+    "name": "jinraynor1/mrjgreen_config",
     "type": "library",
     "description": "Config component based on laravel's",
     "autoload": {
