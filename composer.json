@@ -1,4 +1,6 @@
 {
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "name": "mrjgreen/config",
     "type": "library",
     "description": "Config component based on laravel's",
